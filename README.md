@@ -20,7 +20,7 @@ python3 -m http.server 8000
 
 ```bash
 sudo mkdir -p /var/www/hamster.skin/public
-sudo rsync -av --delete --exclude '.git' ./ /var/www/hamster.skin/public/
+sudo rsync -av --exclude '.git' ./ /var/www/hamster.skin/public/
 ```
 
 В конфигурации Nginx необходимо указать:
