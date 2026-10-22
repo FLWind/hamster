@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="650" viewBox="0 0 600 650" role="img" aria-labelledby="title desc">
+  <title id="title">Биржевой хомяк за ноутбуком</title>
+  <desc id="desc">Весёлый бежевый хомяк с круглыми щёками смотрит на график, сидя за ноутбуком с надписью HODL.</desc>
+  <defs>
+    <linearGradient id="fur" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8D09B"/><stop offset="1" stop-color="#E7AC74"/></linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#354C43"/><stop offset="1" stop-color="#192B24"/></linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#FFF4E3"/><stop offset="1" stop-color="#F8D7BF"/></linearGradient>
+  </defs>
+
+  <!-- Flying seeds and a hopelessly optimistic chart. -->
+  <path d="M77 322l14-14 14 14-14 14Z" fill="#FFEC83" stroke="#1B2921" stroke-width="4" transform="rotate(-20 91 322)"/>
+  <path d="M500 327l13-16 13 16-13 16Z" fill="#FFEC83" stroke="#1B2921" stroke-width="4" transform="rotate(25 513 327)"/>
+  <path d="m93 278 3-17m-18 10 12 6m14-13 9-8" stroke="#1B2921" stroke-width="4" stroke-linecap="round"/>
+  <path d="m510 257 14-16m-1 29 19-4" stroke="#1B2921" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Little round body. -->
+  <ellipse cx="313" cy="473" rx="200" ry="158" fill="#E9B77E" stroke="#1B2921" stroke-width="9"/>
+  <ellipse cx="312" cy="490" rx="123" ry="109" fill="#F8E3C8" opacity=".97"/>
+  <path d="M151 478q-43 9-60 50" fill="none" stroke="#1B2921" stroke-width="9" stroke-linecap="round"/>
+  <path d="M476 488q37 8 50 37" fill="none" stroke="#1B2921" stroke-width="9" stroke-linecap="round"/>
+
+  <!-- Big ears. -->
+  <circle cx="155" cy="167" r="80" fill="url(#fur)" stroke="#1B2921" stroke-width="9"/>
+  <circle cx="155" cy="168" r="52" fill="#EDA29A"/>
+  <circle cx="155" cy="168" r="31" fill="#E58386" opacity=".75"/>
+  <circle cx="450" cy="167" r="80" fill="url(#fur)" stroke="#1B2921" stroke-width="9"/>
+  <circle cx="450" cy="168" r="52" fill="#EDA29A"/>
+  <circle cx="450" cy="168" r="31" fill="#E58386" opacity=".75"/>
+
+  <!-- Head and hair. -->
+  <path d="M94 297c-7-102 69-188 202-193 143-5 230 77 216 199-6 87-91 156-211 158C179 462 100 387 94 297Z" fill="url(#fur)" stroke="#1B2921" stroke-width="9" stroke-linejoin="round"/>
+  <path d="m264 111 7-37 29 26 21-33 11 40" fill="#EABB82" stroke="#1B2921" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M129 248c20-70 70-116 135-126" fill="none" stroke="#FFF0D3" stroke-width="12" stroke-linecap="round" opacity=".7"/>
+
+  <!-- Puffy white cheek patches. -->
+  <ellipse cx="168" cy="356" rx="77" ry="73" fill="url(#shine)"/>
+  <ellipse cx="435" cy="356" rx="77" ry="73" fill="url(#shine)"/>
+  <ellipse cx="304" cy="392" rx="110" ry="65" fill="#F9E6D0"/>
+  <ellipse cx="141" cy="343" rx="31" ry="22" fill="#F39F91" opacity=".53"/>
+  <ellipse cx="462" cy="343" rx="31" ry="22" fill="#F39F91" opacity=".53"/>
+
+  <!-- Eyes, eyebrows, nose and little smile. -->
+  <path d="M208 239q26-14 49 2M352 241q25-15 50-2" fill="none" stroke="#4A332A" stroke-width="8" stroke-linecap="round"/>
+  <ellipse cx="228" cy="282" rx="16" ry="23" fill="#1B2921"/>
+  <ellipse cx="375" cy="282" rx="16" ry="23" fill="#1B2921"/>
+  <ellipse cx="233" cy="272" rx="5" ry="7" fill="#FFF9EB"/>
+  <ellipse cx="380" cy="272" rx="5" ry="7" fill="#FFF9EB"/>
+  <path d="M284 346q19-15 38 0-7 22-19 22-13 0-19-22Z" fill="#D96C79" stroke="#1B2921" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M303 367v15m0 0q-21 22-43 1m43-1q21 22 43 1" fill="none" stroke="#1B2921" stroke-width="6" stroke-linecap="round"/>
+  <path d="m139 370-71-12m79 31-70 13m378-32 71-12m-78 31 69 13" fill="none" stroke="#1B2921" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="186" cy="350" r="4" fill="#C58471"/>
+  <circle cx="420" cy="350" r="4" fill="#C58471"/>
+
+  <!-- Headset: a hard-working professional. -->
+  <path d="M129 250c-8-98 56-175 170-180 125-5 199 74 192 182" fill="none" stroke="#1B2921" stroke-width="12" stroke-linecap="round"/>
+  <path d="M123 256h22v73h-21c-11 0-20-9-20-20v-31c0-12 8-22 19-22Z" fill="#324940" stroke="#1B2921" stroke-width="7"/>
+  <path d="M475 256h19v73h-19c-11 0-18-9-18-20v-31c0-12 7-22 18-22Z" fill="#324940" stroke="#1B2921" stroke-width="7"/>
+  <path d="M477 327q-14 51-68 52" fill="none" stroke="#1B2921" stroke-width="7" stroke-linecap="round"/>
+  <rect x="401" y="369" width="23" height="13" rx="6" fill="#1B2921"/>
+
+  <!-- Paws behind the computer. -->
+  <path d="M173 425c-46 4-65 35-48 66 10 18 28 29 48 23l54-32-54-57Z" fill="#E7B27F" stroke="#1B2921" stroke-width="8"/>
+  <path d="M434 426c46 4 66 36 49 66-10 18-28 29-48 23l-54-32 53-57Z" fill="#E7B27F" stroke="#1B2921" stroke-width="8"/>
+
+  <!-- Laptop lid. -->
+  <path d="M149 439h306c17 0 29 13 26 29l-21 117H145l-22-117c-3-16 9-29 26-29Z" fill="url(#screen)" stroke="#1B2921" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M164 455h275" stroke="#718E7B" stroke-width="3" opacity=".5"/>
+  <path d="M173 537h248" stroke="#5B7C67" stroke-width="2" stroke-dasharray="5 8" opacity=".8"/>
+  <path d="M179 547 214 525 243 535 270 481 305 500 331 467 359 491 389 462 418 478" fill="none" stroke="#D6FB75" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="389" cy="462" r="7" fill="#D6FB75"/>
+  <path d="m382 463 7-15 7 15" fill="none" stroke="#D6FB75" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="247" y="506" width="110" height="42" rx="9" fill="#FAE7B3" stroke="#1B2921" stroke-width="5" transform="rotate(-5 302 527)"/>
+  <text x="302" y="535" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="25" fill="#1B2921" transform="rotate(-5 302 527)">HODL</text>
+
+  <!-- Paws clutch the screen, with tiny toes. -->
+  <path d="M139 450c-14-11-27-6-31 8-6 21 10 39 29 42l37-4c13-2 18-19 8-28-8-7-23-8-43-18Z" fill="#F1C494" stroke="#1B2921" stroke-width="7"/>
+  <path d="M467 450c14-11 27-6 31 8 6 21-10 39-29 42l-37-4c-13-2-18-19-8-28 8-7 23-8 43-18Z" fill="#F1C494" stroke="#1B2921" stroke-width="7"/>
+  <path d="m125 472 12 10m8-23 9 14m326-1-12 10m-8-23-9 14" stroke="#A87954" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Keyboard base and bottom shadow. -->
+  <path d="M123 582h357l31 24c8 7 2 17-12 17H106c-14 0-20-10-12-17l29-24Z" fill="#667F6A" stroke="#1B2921" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M249 601h111" stroke="#D6FB75" stroke-width="7" stroke-linecap="round"/>
+  <path d="M174 608h63m139 0h63" stroke="#1B2921" stroke-width="4" stroke-linecap="round" opacity=".5"/>
+</svg>

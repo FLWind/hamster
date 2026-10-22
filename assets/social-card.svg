@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#F6F4E9"/>
+  <path d="M700 0H1200V630H700Z" fill="#D7F3AA"/>
+  <path d="M700 0V630M754 0V630M808 0V630M862 0V630M916 0V630M970 0V630M1024 0V630M1078 0V630M1132 0V630M1186 0V630" stroke="#91BB79" opacity=".3"/>
+  <path d="M700 54H1200M700 108H1200M700 162H1200M700 216H1200M700 270H1200M700 324H1200M700 378H1200M700 432H1200M700 486H1200M700 540H1200M700 594H1200" stroke="#91BB79" opacity=".3"/>
+  <rect x="55" y="54" width="212" height="36" rx="18" fill="#D6FB75" stroke="#1B2821" stroke-width="2"/>
+  <text x="72" y="78" font-family="Arial,sans-serif" font-size="16" font-weight="900" fill="#1B2821">HAMSTER.SKIN</text>
+  <text x="54" y="254" font-family="Impact,Arial Black,Arial,sans-serif" font-size="114" font-weight="900" letter-spacing="-6" fill="#1B2821">БИРЖЕВЫЕ</text>
+  <text x="54" y="374" font-family="Impact,Arial Black,Arial,sans-serif" font-size="127" font-weight="900" letter-spacing="-7" fill="#799E4B">ХОМЯКИ.</text>
+  <text x="60" y="456" font-family="Arial,sans-serif" font-size="31" font-weight="800" fill="#1B2821">Рынок скачет. Щёки набиты.</text>
+  <text x="60" y="500" font-family="Arial,sans-serif" font-size="31" font-weight="800" fill="#1B2821">Лапки дрожат. А мы держимся.</text>
+  <path d="M60 553H630" stroke="#1B2821" stroke-width="3"/>
+  <text x="60" y="583" font-family="Arial,sans-serif" font-size="17" font-weight="900" letter-spacing="2" fill="#1B2821">КЛУБ ОСОБО НЕРВНЫХ ИНВЕСТОРОВ</text>
+  <circle cx="948" cy="311" r="245" fill="#BDE98D" stroke="#1B2821" stroke-width="5"/>
+  <image x="672" y="33" width="554" height="600" xlink:href="hamster-trader.svg"/>
+  <g transform="rotate(14 1065 136)"><circle cx="1065" cy="136" r="68" fill="#FFAE95" stroke="#1B2821" stroke-width="5"/><text x="1065" y="123" font-family="Impact,Arial Black,Arial,sans-serif" font-weight="900" font-size="30" text-anchor="middle" fill="#1B2821">HODL</text><text x="1065" y="160" font-family="Impact,Arial Black,Arial,sans-serif" font-weight="900" font-size="32" text-anchor="middle" fill="#1B2821">?!</text></g>
+</svg>
